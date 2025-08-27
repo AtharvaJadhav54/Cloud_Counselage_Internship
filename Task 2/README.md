@@ -1,4 +1,4 @@
-# Task 2: AI-Powered Career Path Prediction System
+# Task 2: Career Path Prediction System
 
 This project is an interactive web application that uses a machine learning model to predict a suitable career path for students based on their skills and interests.
 
