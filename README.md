@@ -11,27 +11,28 @@ This internship involved completing two distinct machine learning tasks, demonst
 ### 📁 Repository Structure
 
 
-.
-├── Task 1/
-│   ├── Final Lead Data.xlsx
-│   ├── Task_1_Student's_Year_of_Graduation_Prediction.ipynb
-│   ├── Predicted_Graduation_Data.xlsx
-│   ├── academic_year_distribution.png
-│   ├── gender_distribution.png
-│   ├── graduation_year_distribution.png
-│   ├── top_10_colleges.png
-│   └── README.md
+├── 📁 Task 1/
+│ ├── Final Lead Data.xlsx
+│ ├── Task_1_Student's_Year_of_Graduation_Prediction.ipynb
+│ ├── Predicted_Graduation_Data.xlsx
+│ ├── academic_year_distribution.png
+│ ├── gender_distribution.png
+│ ├── graduation_year_distribution.png
+│ ├── top_10_colleges.png
+│ └── README.md
 │
-├── Task 2/
-│   ├── PS2_Dataset.csv
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── (Output Charts)...
-│   └── README.md
+├── 📁 Task 2/
+│ ├── PS2_Dataset.csv
+│ ├── app.py
+│ ├── requirements.txt
+│ ├── 📁 Output Charts/
+│ │ └── (your generated plots here)
+│ └── README.md
 │
-├── (Project Management Documents)...
+├── 📁 Project Management Documents/
+│ └── (reports, docs, etc.)
 │
-└── README.md         <-- This file
+└── README.md    <-- This file
 
 
 ---
